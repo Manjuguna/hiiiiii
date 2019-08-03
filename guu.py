@@ -1,5 +1,5 @@
 saint=input()
-if(saint.find("gogogo")or saint.find("gigigi")or saint.find("guug")or saint,find("ghghg")):
+if(saint.find("GLGLGL")or saint.find("GRGRGR")or saint.find("GLLG")or saint,find("GRRG")):
 print("yes")
 else:
 print("no")
